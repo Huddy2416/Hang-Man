@@ -1,0 +1,32 @@
+.keyboard{
+    background:#063377;
+    border-color: #EEEEEE;
+    color: #EEEEEE;
+
+}
+.keyboard:disabled{
+    background:#09449e;
+    border-color: #d30e0e;
+    color: #d30e0e;
+
+}
+.puzzle-box{
+    border-color: #EEEEEE;
+    color: #EEEEEE;
+}
+.state{
+    color: #EEEEEE;
+}
+.reset{
+     background:#063377;
+    border-color: gold;
+    color: gold
+}
+.keyboard-container{
+    min-height: max-content;
+}
+.puzzle-ltr{
+    margin: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
